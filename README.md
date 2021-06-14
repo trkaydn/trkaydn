@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @trkaydn
-- 👀 I’m interested in Asp.Net Web Development
+- 👀 I’m interested in asp.net web development
 - 🌱 I’m currently learning C#
