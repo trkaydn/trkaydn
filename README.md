@@ -16,7 +16,7 @@
 - 📫 How to reach me **tarikayydin1846@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trkaydn&show_icons=true&locale=en&layout=compact" alt="trkaydn" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trkaydn&show_icons=true&locale=en" alt="trkaydn" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
