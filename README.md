@@ -5,7 +5,9 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=trkaydn" alt="trkaydn" /></p>
 
-- 🌱 I’m currently learning **C#, ASP.NET Core, SQL**
+- 🔭 I’m currently working on [Bakiciburada](https://bakiciburada.com/)
+
+- 🌱 I’m currently learning **Microservices Architecture, Design Patterns, RabbitMQ, Docker**
 
 - 👀 I’m interested in **ASP.NET Web Development**
 
