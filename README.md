@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=trkaydn" alt="trkaydn" /></p>
 
-- 🔭 I’m currently working on [Wisersense](https://wisersense.io)
+- 🔭 I’m currently working on [WiserSense](https://wisersense.io)
 
 - 🌱 I’m currently learning **Microservices Architecture, Design Patterns, RabbitMQ, Docker**
 
