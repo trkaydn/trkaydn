@@ -3,13 +3,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=trkaydn&label=Profile%20views&color=0e75b6&style=flat" alt="trkaydn" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=trkaydn" alt="trkaydn" /></p>
-
 - 🔭 I’m currently working on [Fizix](https://fizix.ai)
 
-- 🌱 I’m currently learning **Microservices Architecture, Design Patterns, RabbitMQ, Docker**
+- 🌱 I’m currently learning **Microservices Architecture, Design Patterns, RabbitMQ, Docker, React**
 
-- 👀 I’m interested in **ASP.NET Web Development**
+- 👀 I’m interested in **Full-Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/trkaydn?tab=repositories)
 
