@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WTECHIN](https://www.wtechin.com/)
 
-- 🌱 I’m currently learning **Microservices Architecture, Design Patterns, RabbitMQ, Docker, ReactJS**
+- 🌱 I’m currently learning **Microservices Architecture, Design Patterns, RabbitMQ, Docker, React**
 
 - 👀 I’m interested in **Full Stack Web Development**
 
