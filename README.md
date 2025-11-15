@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm @trkaydn</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Specialist</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=trkaydn&label=Profile%20views&color=0e75b6&style=flat" alt="trkaydn" /> </p>
 
-- 🔭 I’m currently working on [Fizix](https://fizix.ai)
+- 🔭 I’m currently working on [WTECHIN](https://www.wtechin.com/)
 
-- 🌱 I’m currently learning **Microservices Architecture, Design Patterns, RabbitMQ, Docker, React**
+- 🌱 I’m currently learning **Microservices Architecture, Design Patterns, RabbitMQ, Docker, ReactJS**
 
 - 👀 I’m interested in **Full Stack Web Development**
 
